@@ -1,5 +1,5 @@
 
-# GeoAI Framework for Community-Based Landslide Early Warning in Nepal
+# GeoAI Framework for Community-Based Landslide Early Warning
 
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-API-green.svg)](https://developers.google.com/earth-engine)
@@ -11,7 +11,7 @@
 This repository contains the complete code, data, and documentation for the research paper:
 
 **"A GeoAI Framework for Community-Based Landslide Early Warning Using Remote Sensing, Machine Learning, and Explainable AI"**  
-*Submitted to Frontiers in Earth Science - Special Issue on GeoAI*
+
 
 The framework integrates:
 - 🌍 **Google Earth Engine (GEE)** for cloud-based geospatial data processing
