@@ -2,7 +2,7 @@
 # GeoAI Framework for Community-Based Landslide Early Warning
 
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
-[![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-API-green.svg)](https://developers.google.com/earth-engine)
+[![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-API-green.svg)](https://code.earthengine.google.com/3d4d445681660b69e1f44c61adf5f042)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 
