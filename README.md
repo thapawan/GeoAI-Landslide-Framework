@@ -1,5 +1,5 @@
 
-# GeoAI Framework for Community-Based Landslide Early Warning
+# GeoAI Framework for Landslide Susceptibility Mapping
 
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-API-green.svg)](https://code.earthengine.google.com/3d4d445681660b69e1f44c61adf5f042)
@@ -10,7 +10,7 @@
 
 This repository contains the complete code, data, and documentation for the research paper:
 
-**"A GeoAI Framework for Community-Based Landslide Early Warning Using Remote Sensing, Machine Learning, and Explainable AI"**  
+**"A GeoAI Framework for Landslide Susceptibility Mapping Using Google Earth Engine, Ensemble Machine Learning, and SHAP Explainable AI"**  
 
 
 The framework integrates:
